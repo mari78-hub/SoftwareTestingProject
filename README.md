@@ -24,21 +24,6 @@ Provide a high-level summary of the application under test and the goals of this
 | Exploratory Testing | Session-based notes and observations            | `.md`           |
 | Screenshots/Videos  | Supporting evidence for bugs or failed tests    | `.png` / `.mp4` |
 
-## 📂 Folder Structure
-
-project-folder/
-│
-├── Test_Plan.md
-├── Test_Cases.xlsx
-├── Bug_Reports.md
-├── Exploratory_Notes.md
-├── Screenshots/
-│ └── issue-101.png
-└── README.md
-
-markdown
-Copy
-Edit
 
 ## ✅ Test Coverage
 
