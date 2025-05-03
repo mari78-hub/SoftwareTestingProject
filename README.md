@@ -1,54 +1,102 @@
 # SoftwareTestingProject
 Manual testing projects with comprehensive test plans, detailed test cases, and documentation for QA practice and portfolio building.
-# 📋 Project Title
+# 🧪 Manual Testing Project
 
-Brief description of the project and what it aims to test.
+A comprehensive manual testing project repository that contains a structured **Test Plan** and detailed **Test Cases** to ensure the quality, functionality, and reliability of the application under test (AUT).
 
-## 🧾 Project Overview
+## 📌 Table of Contents
 
-Provide a high-level summary of the application under test and the goals of this testing project.
+- [Project Overview](#project-overview)
+- [Folder Structure](#folder-structure)
+- [Test Plan](#test-plan)
+- [Test Cases](#test-cases)
+- [How to Use](#how-to-use)
+- [Technologies & Tools](#technologies--tools)
+- [Contributing](#contributing)
+- [Contact](#contact)
 
-- **Application Name:** 
-- **Platform:** (Web, Mobile, Desktop)
-- **Testing Type:** Manual Testing
-- **Scope:** Functional, UI, Regression, etc.
-- **Tools Used:** Excel, Google Sheets, Postman (if applicable), etc.
+## 📋 Project Overview
 
-## 📑 Test Artifacts
+The goal of this project is to define, document, and execute a set of manual tests to validate the core functionalities and non-functional requirements of the application.  
+This repository serves as a resource for:
 
-| Artifact Type       | Description                                     | Format         |
-|---------------------|-------------------------------------------------|----------------|
-| Test Plan           | Outlines testing strategy and scope             | `.md` / `.docx`|
-| Test Cases          | Step-by-step test scenarios with expected results| `.xlsx` / `.csv`|
-| Bug Report          | Logged defects with severity and reproducibility| `.md` / `.xlsx`|
-| Exploratory Testing | Session-based notes and observations            | `.md`           |
-| Screenshots/Videos  | Supporting evidence for bugs or failed tests    | `.png` / `.mp4` |
+- QA Engineers
+- Developers
+- Project Managers
+- Stakeholders
 
+## 📝 Test Plan
 
-## ✅ Test Coverage
+The **Test Plan** outlines the testing strategy, scope, objectives, resources, schedule, and deliverables.
 
-Briefly outline what features/modules were tested.
+📄 **Location:** `/Test_Plan/TestPlan_Document.pdf`
 
-- [x] Login/Signup
-- [x] Product Search
-- [x] Cart Functionality
-- [ ] Payment Gateway (Out of Scope)
+Contents of the Test Plan:
+- Scope of Testing
+- Test Objectives
+- Resources and Roles
+- Test Environment
+- Test Deliverables
+- Entry and Exit Criteria
+- Risks and Mitigation
+
+## ✅ Test Cases
+
+The **Test Cases** provide detailed step-by-step actions to validate the application’s features and functionality.
+
+📂 **Location:** `/Test_Cases/`
+
+Test Case Categories:
+- **Functional Test Cases**  
+- **Regression Test Cases**  
+- **UI Test Cases**  
+- **Smoke Test Cases**  
+
+Each test case includes:
+- Test Case ID  
+- Title/Description  
+- Preconditions  
+- Test Steps  
+- Expected Result  
+- Actual Result  
+- Status (Pass/Fail)
 
 ## 🚀 How to Use
 
-1. Clone the repository or download the ZIP.
-2. Navigate to the project folder you're interested in.
-3. Open the relevant documents to view test cases, plans, and reports.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/manual-testing-project.git
+Navigate through the Test Plan and Test Cases folders.
 
-## 📌 Notes
+Execute the relevant test cases as per the module or feature under test.
 
-- This project is for **educational and portfolio** purposes.
-- Feel free to reuse or adapt the format for your own testing projects.
+Document results and report any defects using your team’s bug tracking tool.
 
-## 📄 License
+🛠️ Technologies & Tools
+Documentation: MS Word, Excel (or Google Docs/Sheets)
 
-This repository is licensed under the [MIT License](LICENSE).
+Bug Tracking: JIRA, Bugzilla (optional)
 
----
+Test Management: TestRail, Zephyr (optional)
 
-👨‍💻 Maintained by [Your Name] – Quality is never an accident!
+🤝 Contributing
+Contributions, suggestions, and improvements are welcome!
+
+Fork the repository
+
+Create a new branch (git checkout -b feature-branch)
+
+Commit your changes (git commit -m 'Add new test cases')
+
+Push to the branch (git push origin feature-branch)
+
+Open a Pull Request
+
+📞 Contact
+For queries, suggestions, or collaborations:
+
+Pramod Dutta
+📧 pramoddutta@live.com
+🔗 LinkedIn
+🌐 TheTestingAcademy
+
