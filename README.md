@@ -92,11 +92,4 @@ Push to the branch (git push origin feature-branch)
 
 Open a Pull Request
 
-📞 Contact
-For queries, suggestions, or collaborations:
-
-Pramod Dutta
-📧 pramoddutta@live.com
-🔗 LinkedIn
-🌐 TheTestingAcademy
 
